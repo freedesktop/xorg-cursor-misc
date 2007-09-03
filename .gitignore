@@ -8,3 +8,4 @@ configure
 cursor.pcf.gz
 install-sh
 missing
+*~
