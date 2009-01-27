@@ -9,3 +9,6 @@ cursor.pcf.gz
 install-sh
 missing
 *~
+font-cursor-misc-*.tar.*
+ChangeLog
+tags
